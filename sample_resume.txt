@@ -1,0 +1,30 @@
+RESUME
+
+Name: Vishnu Vardhana Chary
+
+Email: vishnu@gmail.com
+
+Phone: 9876543210
+
+Education:
+Degree:
+BCA - Omega Degree College
+Degree
+MCA - Spectrum Institute of Management
+and Computer Science
+
+Technical Skills:
+
+Python
+SQL
+HTML
+CSS
+JavaScript
+
+Projects:
+
+Employee Data Analysis
+
+Certifications:
+
+Full Stack Python Training

@@ -1,0 +1,27 @@
+INVOICE
+
+Invoice Number: INV2026
+
+Invoice Date: 04-11-2026
+
+Vendor Name: ABC Technologies
+
+Customer Name: Rahul Kumar
+
+Items:
+
+Laptop
+Quantity: 1
+Unit Price: 45000
+Total Price: 45000
+
+Keyboard
+Quantity: 2
+Unit Price: 500
+Total Price: 1000
+
+Subtotal: 46000
+
+Tax: 18%
+
+Total Amount: 54280

@@ -1,0 +1,15 @@
+My AI Agent Project
+
+This project is developed using Python,
+LangChain, Google Gemini AI and Streamlit.
+
+Features:
+
+1. Internet Search
+2. Mathematical Calculator
+3. Local File Reader
+4. Real-time AI Responses
+5. Chat History Management
+
+This project demonstrates the implementation
+of an AI Agent using multiple tools.
